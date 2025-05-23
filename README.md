@@ -13,7 +13,7 @@ Here you'll find models built with frameworks like **TensorFlow**, **Keras**, an
 - **Description**: Predictive model using a fully connected ANN trained on imbalanced data, balanced using SMOTE.
 - **Tech**: `Keras`, `SMOTE`, `RandomForest`, `scikit-learn`
 - **Notebook**: [`CustomerChurn_BinaryClassification.ipynb`](./CustomerChurn/CustomerChurn_BinaryClassification.ipynb)
-- **Dataset**: [`customer__churn.csv`](./Customer_Churn.csv)
+- **Dataset**: [`CustomerChurn.csv`](./Customer_Churn.csv)
 
 ---
 
