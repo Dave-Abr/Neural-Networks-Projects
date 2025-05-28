@@ -5,7 +5,7 @@ Welcome to the section of my portfolio dedicated to projects involving **Artific
 Here you'll find models built with frameworks like **TensorFlow**, **Keras**, and **PyTorch**, applied to real-world problems including classification, regression, and image recognition.
 
 ---
-
+![Book Cancellation](resources/bookcancellation.PNG)
 
 ### 🧠 Booking Cancellation Prediction with Neural Networks
 - **Description**: Multilayer Perceptron (MLP) model to predict whether a customer will cancel a hotel reservation
