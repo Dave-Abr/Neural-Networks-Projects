@@ -15,10 +15,10 @@ Here you'll find models built with frameworks like **TensorFlow**, **Keras**, an
 - **Dataset**: [`hotelbookings.csv`](./data/hotel_bookings.csv)
 
 ---
-![Price of Flights](resources/priceflights.jpg)
 
 
-### ✈️ Binary Classification with ANN and SMOTE
+
+### 📵 Binary Classification with ANN and SMOTE
 - **Description**: Predictive model using a fully connected ANN trained on imbalanced data, balanced using SMOTE.
 - **Context**: The goal of this project is to predict **customer churn** in a telecommunications company using structured data. The dataset includes demographic information, services used, and customer account history.
 - **Tech**: `Keras`, `SMOTE`, `RandomForest`, `scikit-learn`
