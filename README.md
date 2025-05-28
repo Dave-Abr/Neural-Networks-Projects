@@ -16,7 +16,7 @@ Here you'll find models built with frameworks like **TensorFlow**, **Keras**, an
 
 ---
 
-
+![Customer Churn](resources/customerchurn.jpg)
 
 ### 📵 Binary Classification with ANN and SMOTE
 - **Description**: Predictive model using a fully connected ANN trained on imbalanced data, balanced using SMOTE.
