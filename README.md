@@ -11,8 +11,8 @@ Here you'll find models built with frameworks like **TensorFlow**, **Keras**, an
 - **Description**: Predictive model using a fully connected ANN trained on imbalanced data, balanced using SMOTE.
 - **Context**: The goal of this project is to predict **customer churn** in a telecommunications company using structured data. The dataset includes demographic information, services used, and customer account history.
 - **Tech**: `Keras`, `SMOTE`, `RandomForest`, `scikit-learn`
-- **Notebook**: [`CustomerChurn_BinaryClassification.ipynb`](./CustomerChurn/CustomerChurn_BinaryClassification.ipynb)
-- **Dataset**: [`CustomerChurn.csv`](./CustomerChurn/CustomerChurn.csv)
+- **Notebook**: [`CustomerChurn_BinaryClassification.ipynb`](./notebooks/CustomerChurn_BinaryClassification.ipynb)
+- **Dataset**: [`CustomerChurn.csv`](./data/CustomerChurn.csv)
 
 ---
 
