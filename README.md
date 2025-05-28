@@ -1,4 +1,4 @@
-# 📚 Neural Networks Projects
+# 📂 Neural Networks Projects
 
 Welcome to the section of my portfolio dedicated to projects involving **Artificial Neural Networks** and **Deep Learning**.
 
