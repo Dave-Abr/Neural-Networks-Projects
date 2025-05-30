@@ -8,11 +8,11 @@ Here you'll find models built with frameworks like **TensorFlow**, **Keras**, an
 ![Book Cancellation](resources/bookCancellation.jpg)
 
 ### 🏨 Booking Cancellation Prediction with Neural Networks
-- **Description**: Multilayer Perceptron (MLP) model to predict whether a customer will cancel a hotel reservation
-- **Context**: The dataset includes booking records from both city hotels and resort hotels. Tuning hyperparameters such as the number of neurons, hidden layers, and activation functions, and by applying regularization techniques like Dropout.
-- **Tech**: `Python`,`Pandas`, `scikit-learn`, `TensorFlow `, `Keras`,
-- **Notebook**: [`x.ipynb`](./notebooks/x.ipynb)
-- **Dataset**: [`hotelbookings.csv`](./data/hotel_bookings.csv)
+- **Description**: This project uses a Multilayer Perceptron (MLP) to predict whether a customer will cancel a hotel reservation.
+- **Context**: Builds a classification model using artificial neural networks to analyze hotel booking data. Applies hyperparameter tuning (number of hidden layers, neurons, activation functions) and Dropout regularization to improve performance.
+- **Tech**: `Python`,`Pandas`, `scikit-learn`, `TensorFlow `, `Keras`
+- **Notebook**: [`BookCancellation_ANN.ipynb`](notebooks/BookCancellation_ANN.ipynb)
+- **Dataset**: [`hotel_bookings.csv`](data/hotel_bookings.csv)
 
 ---
 
@@ -22,8 +22,8 @@ Here you'll find models built with frameworks like **TensorFlow**, **Keras**, an
 - **Description**: Predictive model using a fully connected ANN trained on imbalanced data, balanced using SMOTE.
 - **Context**: The goal of this project is to predict **customer churn** in a telecommunications company using structured data. The dataset includes demographic information, services used, and customer account history.
 - **Tech**: `Keras`, `SMOTE`, `RandomForest`, `scikit-learn`
-- **Notebook**: [`CustomerChurn_BinaryClassification.ipynb`](./notebooks/CustomerChurn_BinaryClassification.ipynb)
-- **Dataset**: [`CustomerChurn.csv`](./data/CustomerChurn.csv)
+- **Notebook**: [`CustomerChurn_BinaryClassification.ipynb`](notebooks/CustomerChurn_BinaryClassification.ipynb)
+- **Dataset**: [`CustomerChurn.csv`](data/CustomerChurn.csv)
 
 ---
 
